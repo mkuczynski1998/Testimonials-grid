@@ -1,0 +1,24 @@
+.desc-white {
+   display: flex;
+   align-items: center;
+   gap: 0.8rem;
+}
+
+.desc-black {
+   display: flex;
+   align-items: center;
+   gap: 0.8rem;
+}
+
+.avatar-border img {
+   height: 2.2rem;
+   width: 2.2rem;
+   border-radius: 50%;
+   border: 2.5px solid hsl(263, 87%, 73%);
+}
+
+.avatar-noborder img {
+   height: 2.2rem;
+   width: 2.2rem;
+   border-radius: 50%;
+}
